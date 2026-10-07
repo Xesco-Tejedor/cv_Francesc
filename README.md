@@ -1,59 +1,48 @@
----
-layout: default
-title: Xesco Tejedor — Arquitectura de Contenidos y Copywriting Estratégico
----
+# Francesc Adrià Perelló
 
-# Xesco Tejedor
-## Arquitectura de Contenidos y Copywriting Estratégico
+Xesco Tejedor · Continuidad digital y patrimonio cultural
 
-Copywriting técnico, editorial y de posicionamiento. Reducción de la fricción cognitiva y estructuración de mensajes complejos para proyectos digitales, culturales y editoriales que exigen rigor, claridad y profundidad conceptual.
+Barcelona · xesco@xescotejedor.es · xescotejedor.es · linkedin.com/in/xesco/
 
----
+## Perfil profesional
 
-## Manifiesto Operativo
+Experiencia en atención al público del MNAC desde 2003 y en su biblioteca desde 2020. Formación en Filosofía y desarrollo web, con el MUBACD de la UC3M en curso. Orientación profesional hacia el patrimonio cultural y la continuidad digital, junto con proyectos propios desarrollados con apoyo de IA.
 
-*   **Lo que hago:** Diseñar arquitecturas de mensaje, optimizar flujos de lectura en interfaces o catálogos, y redactar piezas de largo aliento donde la densidad informativa no compite con la legibilidad.
-*   **Lo que rechazo:** El *copywriting* persuasivo basado en urgencia artificial, el relleno SEO vacío de contenido y la adulación corporativa insostenible. Si el producto o el proyecto no se sostiene por sí mismo con argumentos lógicos, la palabra no tiene función decorativa que lo salve.
+## Experiencia
 
----
+MagmaCultura · Biblioteca del MNAC
+Atención al usuario · diciembre de 2020 - actualidad
 
-## Casos de Estudio (Evidencia de Criterio)
+MagmaCultura · MNAC
+Atención al público · noviembre de 2004 - diciembre de 2020
 
-### Caso I: Reducción de Fricción en Entornos de Alta Complejidad (UX / Microcopy)
+Manpower Link · MNAC
+Atención al público · noviembre de 2003 - noviembre de 2004
 
-*   **El Problema:** Un flujo de interacción digital o un sistema de recuperación de información donde el usuario colapsa por exceso de datos desestructurados o terminología opaca.
-*   **El Diagnóstico:** La interfaz no comunicaba con claridad el siguiente paso crítico; el usuario experimentaba desorientación cognitiva debido a jerarquías de texto planas.
-*   **La Intervención:** Reestructuración completa del mapa de textos de interfaz. Simplificación de etiquetas, depuración de mensajes de error abstractos y construcción de microcopys funcionales basados en la economía del lenguaje.
-*   **La Evidencia:** 
-    *   *Antes:* Mensajes de error genéricos ("Error 500: Operación fallida") y botones ambiguos ("Continuar sin validar").
-    *   *Después:* Copys orientados a la acción correctiva inmediata ("No se han podido verificar los metadatos. Comprueba el formato del campo antes de reintentar" / "Revisar y guardar"). 
-    *   *Criterio:* Eliminación de la carga emocional y sustitución por instrucciones unívocas que reducen el tiempo de decisión del usuario.
+## Formación
 
----
+Máster Universitario en Bibliotecas, Archivos y Continuidad Digital
+Universidad Carlos III de Madrid · desde 2025 · en curso. Preservación digital, metadatos y descripción semántica.
 
-### Caso II: Discurso Editorial y Posicionamiento de Marca (Long-form / Cultural)
+Licenciatura en Filosofía
+Universitat de Barcelona · 2000 - 2014
 
-*   **El Problema:** La comunicación de un proyecto cultural, expositivo o editorial que carecía de un eje vertebrador, diluyendo su identidad bajo descripciones académicas intrascendentes o reclamos comerciales genéricos.
-*   **El Diagnóstico:** Falta de un tono unificado que conectara el rigor conceptual del fondo con la legibilidad requerida por el público general o especializado.
-*   **La Intervención:** Rediseño del manifiesto de marca, textos de presentación y argumentario de valor. Construcción de una voz sobria, analítica y con ritmo, donde la selección léxica elimina el adorno superfluo.
-*   **La Evidencia:** 
-    *   *Estructura del discurso:* Transición desde el diagnóstico abstracto hacia la materialidad del proyecto.
-    *   *Criterio:* Supresión sistemática de superlativos y adjetivos vacíos ("innovador", "vanguardista", "único"). La autoridad se demuestra exponiendo la naturaleza técnica del objeto cultural sin mediaciones estridentes.
+Máster de Formación del Profesorado (Filosofía) · UB: inicio 2015 · UNED: TFM 2019
 
----
+Bootcamp Fullstack developer
+The Bridge | Digital Talent Accelerator · marzo - noviembre de 2022
 
-### Caso III: Secuencia de Retención y Autoridad (Email / Contenido Estratégico)
+Aprendizaje autodidacta y formación online
+Desarrollo web y cursos de Google. Uso de IA como apoyo para desarrollar ideas propias.
 
-*   **El Problema:** Una estrategia de comunicación recurrente (newsletter o secuencia de captación) convertida en spam informativo sin tasa de retención real debido a la falta de sustancia en los envíos.
-*   **El Diagnóstico:** El emisor dependía del "gancho semanal" superficial en lugar de construir un activo de lectura basado en la aportación de criterio genuino.
-*   **La Intervención:** Reorientación del formato hacia un modelo de ensayo breve o monográfico estructurado por valor de contenido, eliminando llamadas a la acción agresivas.
-*   **La Evidencia:** 
-    *   *Formato:* Envíos estructurados en tres bloques lógicos: planteamiento del problema técnico o conceptual, análisis de la evidencia empírica y conclusión operativa.
-    *   *Criterio:* Cero urgencia artificial ("oferta por tiempo limitado"). La fidelización descansa exclusivamente sobre la utilidad intelectual de la pieza para el lector.
+## Proyectos y líneas de trabajo
 
----
+Depósito de Entorno · Propuesta académica en curso sobre preservación del software español de 8 bits (1983-1992) y su entorno de ejecución.
 
-## Criterio Operativo y Herramientas
+MNAC-cruïlla y Book-Lens · Prototipos para explorar relaciones entre obras de arte, libros y recursos de información cultural. Ideas propias desarrolladas con ayuda de IA, de carácter independiente.
 
-*   **Dominio técnico:** Edición tipográfica, normalización de metadatos textuales, análisis de legibilidad, arquitectura de la información y Markdown como formato nativo de producción.
-*   **Fundamento:** Pensamiento analítico y rigor semántico aplicados a la estructura lógica del discurso; dominio absoluto de la sintaxis y de los límites del lenguaje frente al ruido digital.
+Proyectos e información profesional: xescotejedor.es · LinkedIn: linkedin.com/in/xesco/
+
+Disponible para ampliar mi trayectoria y mis proyectos en una entrevista o charla.
+
+Actualizado: octubre de 2026
